@@ -1,1 +1,5 @@
 Welcome
+
+Making changes to working copy
+
+New addition to the file to know the git diff
